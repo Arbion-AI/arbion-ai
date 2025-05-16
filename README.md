@@ -123,7 +123,7 @@ Bergabunglah dengan komunitas Arbion AI untuk diskusi, dukungan, dan update terb
 
 | Platform        | Link                                                         |
 | --------------- | ------------------------------------------------------------ |
-| **Website**     | [https://arbion.org/](https://arbion.org)                   |
+| **Website**     | [https://arbion.org](https://arbion.org)                   |
 | **Telegram**    | [https://t.me/Arbion\_AI](https://t.me/Arbion_AI)            |
 | **X (Twitter)** | [https://x.com/Arbion\_AI](https://x.com/Arbion_AI)          |
 | **GitHub**      | [https://github.com/Arbion-AI](https://github.com/Arbion-AI) |
