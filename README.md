@@ -127,6 +127,6 @@ Bergabunglah dengan komunitas Arbion AI untuk diskusi, dukungan, dan update terb
 | **Telegram**    | [https://t.me/Arbion\_AI](https://t.me/Arbion_AI)            |
 | **X (Twitter)** | [https://x.com/Arbion\_AI](https://x.com/Arbion_AI)          |
 | **GitHub**      | [https://github.com/Arbion-AI](https://github.com/Arbion-AI) |
-| **Email**       | [support@arbion-ai.org](mailto:support@arbion-ai.org)        |
+| **Email**       | [support@arbion.org](mailto:support@arbion.org)        |
 
 *Built with ❤️ for the Web3 community.*
